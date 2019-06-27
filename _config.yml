@@ -1,0 +1,38 @@
+# Site settings
+title: Hieu's Blog | A simple Jekyll blog
+description: "A minimal blog template, build with Jekyll."
+url: "https://tthieuhcm.github.io"
+author:
+  name: "Hieu Tran-Trung"
+  email: "tthieuhcm@gmail.com"
+  url: "https://tthieuhcm.github.io"
+
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+# permalink: /index.html
+paginate: 5
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+gems:
+  - jekyll-paginate
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
