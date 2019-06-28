@@ -4,7 +4,7 @@
  <title>Hieu's Blog | A simple Jekyll blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2019-06-28T00:14:39+07:00</updated>
+ <updated>2019-06-28T10:16:08+07:00</updated>
  <author>
    <name>Hieu Tran-Trung</name>
    <uri>https://tthieuhcm.github.io</uri>
@@ -19,6 +19,8 @@
    <id>http://localhost:4000/2019/03/18/small-text</id>
    <updated>2019-03-18T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;This is an example of a blog post with small amount of text.&lt;/p&gt;
+
+&lt;div class=&quot;fb-comments&quot; data-href=&quot;https://tthieuhcm.github.io/2019/03/18/small-text.html&quot; data-width=&quot;&quot; data-numposts=&quot;5&quot;&gt;&lt;/div&gt;
 </content>
  </entry>
 
