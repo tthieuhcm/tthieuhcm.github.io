@@ -7,12 +7,16 @@ My name is Trung-Hieu Tran.
 
 I'm a senior at HCMC University of Technology. My major is Computer Science, and I'm interested in Computer Vision and Image Processing.
 
-I made this blog for my further studies because I rarely remember thingy I've learned after one month, so writing is a good way to revise forbid... I mean forgotten knowledge. Also, my writing skill sucks, so I hope you guys can give me some advice. 
+I made this blog for my further studies because I rarely remember thingy I've learned after one month, so writing is a good way to revise forbid... I mean forgotten knowledge :) Also, my writing skill sucks, so I hope you guys can give me some advice. 
 
 
 ## Getting in touch	
 Email: tthieuhcm@gmail.com
+
 [LinkedIn](linkedin.com/in/hieutt0403)
+
 [Facebook](fb.com/hieu.trantrung.1217)
+
 [Github](github.com/tthieuhcm)
+
 [My CV](https://drive.google.com/open?id=1iNnIvEo0RGfuLwqQnX4fUi6e5BqmIS8A)
