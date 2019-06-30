@@ -3,10 +3,16 @@ layout: page
 title: About me
 ---
 ## About me
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+My name is Trung-Hieu Tran. 
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+I'm a senior at HCMC University of Technology. My major is Computer Science, and I'm interested in Computer Vision and Image Processing.
 
-![Emerald](assets/images/Emerald01.png "Emerald")
+I made this blog for my further studies because I rarely remember thingy I've learned after one month, so writing is a good way to revise forbid... I mean forgotten knowledge. Also, my writing skill sucks, so I hope you guys can give me some advice. 
 
-## My CV
+
+## Getting in touch	
+Email: tthieuhcm@gmail.com
+[LinkedIn](linkedin.com/in/hieutt0403)
+[Facebook](fb.com/hieu.trantrung.1217)
+[Github](github.com/tthieuhcm)
+[My CV](https://drive.google.com/open?id=1iNnIvEo0RGfuLwqQnX4fUi6e5BqmIS8A)
