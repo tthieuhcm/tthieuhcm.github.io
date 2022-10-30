@@ -3,12 +3,12 @@ layout: page
 title: About me
 permalink: /about/
 ---
-I love Physics :globe_with_meridians: and computing stuff :computer:.
+I love Physics and computing stuff.
 
-Publications
+# Publications
 
-Relevant experience
+# Relevant experience
 
-Education 
+# Education 
 
 <!-- [minima](https://github.com/jekyll/minima) -->
