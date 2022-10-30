@@ -12,6 +12,7 @@ I love Physics and computing stuff.
 
 ## Relevant Experience
 - **Research Engineer** (Jul 2020 - present)
+
 __Koidra Inc.__ (Ho Chi Minh City, Vietnam)
 
 Implement Autopilot - an ML service which helps to control greenhouse climate and crops automatically.
@@ -48,7 +49,7 @@ Develop new features for the core application Laban Key - a Vietnamese keyboard 
 ## Education
 **B.E. in Computer Science,** __Honors Program__ 2015-2019
 
-**Falcuty of Computer Science and Engineering**, University of Technology (HCMUT), VNU-HCM, Viet Nam
+**University of Technology (HCMUT)**, VNU-HCM, Viet Nam
 
 Cummulative GPA: 8.39/10
 
