@@ -17,7 +17,7 @@ __Koidra Inc.__ (Ho Chi Minh City, Vietnam)
 
 Implement Autopilot - an ML service which helps to control greenhouse climate and crops automatically.
 
-Research on Controlled Environment Agriculture Simulator - a dynamic & differentiable simulator for green- houses and vertical farms.
+Research on Controlled Environment Agriculture Simulator - a dynamic & differentiable simulator for greenhouses and vertical farms.
 
 - **Software Engineer** (Jul 2019 - Jul 2020)
 
