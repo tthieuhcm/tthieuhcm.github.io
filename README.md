@@ -20,17 +20,17 @@ __Zalo Group__ (Ho Chi Minh City, Vietnam)
 Work as a collaborator for LaBan Team at Zalo Group.
 Develop new features for the core application Laban Key - a Vietnamese keyboard for mobile devices.
 
-## Industrial projects
-- **Controlled Environment Agriculture Simulator (CEAS):** A fast & high-accuracy digital twin of greenhouses.
-Furthermore, its parameters are completely differentiable, which means they can be TRAINED using machine
-learning methods as well. Using vanilla Python & PyTorch for parallel computing + Bokeh for visualizing results.
+## Projects
+- **(Industrial) Controlled Environment Agriculture Simulator (CEAS):** A fast & high-accuracy digital twin of greenhouses. Furthermore, its parameters are completely differentiable, which means they can be TRAINED using machine learning methods as well. Using vanilla Python & PyTorch for parallel computing + Bokeh for visualizing results.
 
-- **Autopilot:** A service for controlling the greenhouses automatically using our special algorithm. Implement from
-scratch using vanilla Python. Starting with rule-based control method, our team is trying to apply AI techniques
-such as model predictive control (MPC) and multi-hierarchy control algorithm
+- **(Industrial) Autopilot:** A service for controlling the greenhouses automatically using our special algorithm. Implement from scratch using vanilla Python. Starting with rule-based control method, our team is trying to apply AI techniques such as model predictive control (MPC) and multi-hierarchy control algorithm
 
-- **Krop Manager:** An digital decision platform using Vue as front-end & Django as back-end. Help implementing
-the back-end of the first version of the website.
+- **(Industrial) Krop Manager:** An digital decision platform using Vue as front-end & Django as back-end. Help implementing the back-end of the first version of the website.
+
+<!-- list ra vai trò của em là gì, phụ trách gì trong đó, em sử dụng công nghệ gì (i.e., how relevant?) -->
+
+## Framework & Skills
+
 
 ## Education
 **B.E. in Computer Science,** __Honors Program__ 2015-2019
