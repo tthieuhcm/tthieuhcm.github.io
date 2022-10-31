@@ -65,10 +65,10 @@ Cummulative GPA: 8.39/10
 B.E thesis project: **“Building an automatic image tagger with DenseNet and transfer learning”**
 
 # Award
-* Won [http://www.autonomousgreenhouses.com/](1st Prize in Autonomous Greenhouses International Challenge 3rd)
+* Won [1st Prize in Autonomous Greenhouses International Challenge 3rd](http://www.autonomousgreenhouses.com/)
 
 # Schools/Conferences attended
-* [https://www.truonghekhoahoc.com/2020](8th Vietnam School of Science), International Centre for Interdisciplinary Science and Education (ICISE), Quy Nhon, Vietnam, 28/11 - 1/12/2020.
-* [http://viasm.edu.vn/hdkh/bbsn](Statistical learning: bagging, boosting, SVM, introduction to neural networks), Vietnam Institute for Advanced Study in Mathematics (VIASM), Ha Noi, Vietnam, 01-02/04/2019.
-* [http://acomp.tech/history/2019/](13th International Conference on Advanced Computing and Applications (ACOMP)), IEEE, Nha Trang City, Vietnam, 27-29/11/2019.
+* [8th Vietnam School of Science](https://www.truonghekhoahoc.com/2020), International Centre for Interdisciplinary Science and Education (ICISE), Quy Nhon, Vietnam, 28/11 - 1/12/2020.
+* [Statistical learning: bagging, boosting, SVM, introduction to neural networks](http://viasm.edu.vn/hdkh/bbsn), Vietnam Institute for Advanced Study in Mathematics (VIASM), Ha Noi, Vietnam, 01-02/04/2019.
+* [13th International Conference on Advanced Computing and Applications (ACOMP)](http://acomp.tech/history/2019/), IEEE, Nha Trang City, Vietnam, 27-29/11/2019.
 <!-- [minima](https://github.com/jekyll/minima) -->
