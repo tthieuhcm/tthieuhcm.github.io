@@ -16,7 +16,7 @@ I love Physics and computing stuff.
 
 Implement Autopilot - an ML service which helps to control greenhouse climate and crops automatically.
 
-Research on Controlled Environment Agriculture Simulator - a dynamic & differentiable simulator for greenhouses and vertical farms.
+Research on Controlled Environment Agriculture Simulator - a dynamic + differentiable + high accuracy digital twin for greenhouses and vertical farms.
 
 - **Software Engineer** @ *Koidra Inc.* (Jul 2019 - Jul 2020)
 
@@ -31,22 +31,16 @@ Develop new features for the core application Laban Key - a Vietnamese keyboard 
 ## Projects
 
 - **(Industrial) Controlled Environment Agriculture Simulator (CEAS)** as *Core developer*
- 
- A fast & high-accuracy digital twin of greenhouses
     * Implement the first version of the simulation with pure Python,
     * Improve the simulation by linearizing calculations & implement matrices of the interplays between components,
     * Make differentiable parameters and batch computing using PyTorch,
     * Visualize results using Bokeh.
 
 - **(Industrial) Autopilot** as *Core developer*
-
-An ML service for controlling the greenhouses automatically
     * Implement from scratch using vanilla Python,
     * Implement model predictive control (MPC) and multi-hierarchy control algorithm to solve the optimal control problem.
 
 - **(Industrial) Krop Manager:** as *Back-end developer*
-
-An digital decision platform for plants and farms
     * Help implementing the Django back-end of the website,
     * Establish the CI/CD pipeline & test suite for the project
 
