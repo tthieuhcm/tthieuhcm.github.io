@@ -12,23 +12,17 @@ I love Physics and computing stuff.
 - **Trung-Hieu Tran**, Xuan-Hai Tran, Vinh-Tiep Nguyen, Khuong Nguyen-An. [Building an automatic image tagger with DenseNet and transfer learning](https://ieeexplore.ieee.org/xpl/conhome/9036008/proceeding). In __13th International Conference on Advanced Computing and Applications (ACOMP)__, Nov 27-29 - Nha Trang City, Vietnam, Pages 34-41 (2019). DOI: 10.1109/ACOMP48771.2019
 
 ## Relevant Experience
-- **Research Engineer** (Jul 2020 - present)
-
-__Koidra Inc.__ (Ho Chi Minh City, Vietnam)
+- **Research Engineer** @ *Koidra Inc.* (Jul 2020 - present)
 
 Implement Autopilot - an ML service which helps to control greenhouse climate and crops automatically.
 
 Research on Controlled Environment Agriculture Simulator - a dynamic & differentiable simulator for greenhouses and vertical farms.
 
-- **Software Engineer** (Jul 2019 - Jul 2020)
-
-__Koidra Inc.__ (Ho Chi Minh City, Vietnam)
+- **Software Engineer** @ *Koidra Inc.* (Jul 2019 - Jul 2020)
 
 Implement Krop Manager - a digital decision platform for industry & agriculture.
 
-- **Software Development Collaborator** (May 2018 - Jan 2019)
-
-__Zalo Group__ (Ho Chi Minh City, Vietnam)
+- **Software Development Collaborator** @ *Zalo Group* (May 2018 - Jan 2019)
 
 Work as a collaborator for LaBan Team at Zalo Group.
 
