@@ -52,8 +52,18 @@ Develop new features for the core application Laban Key - a Vietnamese keyboard 
 
 <!-- list ra vai trò của em là gì, phụ trách gì trong đó, em sử dụng công nghệ gì (i.e., how relevant?) -->
 
-## Framework & Skills
-
+## Skills
+Python | 5/5\\
+C++ |3/5\\
+MATLAB | 4/5\\
+\LaTeX | 5/5\\
+------------------------\\
+PyTorch | 4/5 \\
+------------------------\\
+Linux | 4/5\\
+Git | 4/5\\
+------------------------\\
+English | IELTS: 6.5 Overall\\
 
 ## Education
 **B.E. in Computer Science,** __Honors Program__ 2015-2019
