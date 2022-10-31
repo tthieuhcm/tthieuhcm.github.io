@@ -30,17 +30,23 @@ Develop new features for the core application Laban Key - a Vietnamese keyboard 
 
 ## Projects
 
-- **(Industrial) Controlled Environment Agriculture Simulator (CEAS):** A fast & high-accuracy digital twin of greenhouses
+- **(Industrial) Controlled Environment Agriculture Simulator (CEAS)** as *Core developer*
+ 
+ A fast & high-accuracy digital twin of greenhouses
     * Implement the first version of the simulation with pure Python,
     * Improve the simulation by linearizing calculations & implement matrices of the interplays between components,
     * Make differentiable parameters and batch computing using PyTorch,
     * Visualize results using Bokeh.
 
-- **(Industrial) Autopilot:** An ML service for controlling the greenhouses automatically
+- **(Industrial) Autopilot** as *Core developer*
+
+An ML service for controlling the greenhouses automatically
     * Implement from scratch using vanilla Python,
     * Implement model predictive control (MPC) and multi-hierarchy control algorithm to solve the optimal control problem.
 
-- **(Industrial) Krop Manager:** An digital decision platform for plants and farms
+- **(Industrial) Krop Manager:** as *Back-end developer*
+
+An digital decision platform for plants and farms
     * Help implementing the Django back-end of the website,
     * Establish the CI/CD pipeline & test suite for the project
 
