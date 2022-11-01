@@ -36,11 +36,11 @@ Develop new features for the core application Laban Key - a Vietnamese keyboard 
     * Make differentiable parameters and batch computing using PyTorch,
     * Visualize results using Bokeh.
 
-- **(Industrial) Autopilot** as *Core developer*
+- **(Industrial) λutopilot** as *Core developer*
     * Implement from scratch using vanilla Python,
     * Implement model predictive control (MPC) and multi-hierarchy control algorithm to solve the optimal control problem.
 
-- **(Industrial) Krop Manager:** as *Back-end developer*
+- **(Industrial) Krop Manager** as *Back-end developer*
     * Help implementing the Django back-end of the website,
     * Establish the CI/CD pipeline & test suite for the project
 
